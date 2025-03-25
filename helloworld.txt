@@ -1,3 +1,3 @@
 Hope this note is there and not gone
 Please this note should not gone
-This is manually add text using cat >>Trying one more time to add note using the command cat >> and save it with ctrl+D
+This is manually add text using cat >>Trying one more time to add note using the command cat >> and save it with ctrl+DThis note is added using echo using >> append new content without deleteing existing content
