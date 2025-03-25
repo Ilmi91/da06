@@ -4,3 +4,4 @@ This is manually add text using cat >>Trying one more time to add note using the
 Additional text after line 3
 This note is added using sed i 4a from gitbash. then add and commit at the same time using commit a m
 This note is added usinh sed -i 4a from gitbash. Then add & commit at the same time using git commit -a -m
+This new not is located in line 7
