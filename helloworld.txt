@@ -1,2 +1,3 @@
 Hope this note is there and not gone
 Please this note should not gone
+This is manually add text using cat >>
