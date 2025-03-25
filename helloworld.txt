@@ -1,2 +1,0 @@
-This is written directly in txt file
-This second line is written from GitHub, can you see this?
