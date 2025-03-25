@@ -1,1 +1,2 @@
 This code is made from GitHub 
+Hello, this is written from txt file
